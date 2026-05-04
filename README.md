@@ -149,3 +149,5 @@ test_save_and_load_single_record        PASSED
 ## Лицензия
 
 Проект создан в учебных целях.
+
+https://github.com/HackMan4el/weather_diary.git
